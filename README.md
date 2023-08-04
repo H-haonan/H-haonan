@@ -9,13 +9,6 @@
     <img src="https://komarev.com/ghpvc/?username=H-haonan&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 <br>
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/geekswg/geekswg/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/geekswg/geekswg/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/geekswg/geekswg/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
-
 </div>
 <p align="center">
   Hi, I'm H-haonan
