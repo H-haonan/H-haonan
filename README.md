@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=用心甘情愿的态度!+👋;过随遇而安的生活!&center=true&size=30">
   </a>
 </h1>
+<h5 align="center">
   <code><a href="http://wpa.qq.com/msgrd?v=3&uin=937605022&site=qq&menu=yes" title="QQ Profile"><img height="24" src="images/QQ.svg">  </a></code>
   <code><a href="mailto: 937605022@qq.com" title="点击给我发邮件"><img height="24" src="images/mail.svg">  </a></code>
   <code><a href="http://geekswg.cnblogs.com/" title="Geekswg's Cnblogs"><img height="24" src="images/cnblogs.svg">  </a></code>
