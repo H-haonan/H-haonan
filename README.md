@@ -4,6 +4,7 @@
   </a>
 </h1>
 <h5 align="center">
+  <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=H-haonan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
   <code><a href="http://wpa.qq.com/msgrd?v=3&uin=937605022&site=qq&menu=yes" title="QQ Profile"><img height="24" src="images/QQ.svg">  </a></code>
   <code><a href="mailto: 937605022@qq.com" title="点击给我发邮件"><img height="24" src="images/mail.svg">  </a></code>
   <code><a href="http://geekswg.cnblogs.com/" title="Geekswg's Cnblogs"><img height="24" src="images/cnblogs.svg">  </a></code>
