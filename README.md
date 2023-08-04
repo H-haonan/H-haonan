@@ -1,8 +1,2 @@
-<!-- Markdown -->
-![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=H-haonan&show_icons=true&theme=tokyonight" /> </div>
 
-![](https://github-readme-stats.vercel.app/api?username=H-haonan&theme=dark)
-
-
-<!-- Markdown -->
-![](https://visitor-badge.glitch.me/badge?page_id=H-haonan)
