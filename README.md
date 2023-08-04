@@ -1,2 +1,4 @@
-
-![Dusai's Github stats](https://github-readme-stats.vercel.app/api?username=H-haonan&show_icons=true&theme=radical)
+<!-- Markdown -->
+![Who's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-haonan)
+<!-- HTML -->
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=H-haonan" />
