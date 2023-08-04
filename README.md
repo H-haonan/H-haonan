@@ -3,13 +3,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=用心甘情愿的态度!+👋;过随遇而安的生活!&center=true&size=30">
   </a>
 </h1>
-<h5 align="center">
-  <code><a href="http://wpa.qq.com/msgrd?v=3&uin=937605022&site=qq&menu=yes" title="QQ Profile"><img height="24" src="images/QQ.svg">  </a></code>
-  <code><a href="mailto: 937605022@qq.com" title="点击给我发邮件"><img height="24" src="images/mail.svg">  </a></code>
-  <code><a href="http://geekswg.cnblogs.com/" title="Geekswg's Cnblogs"><img height="24" src="images/cnblogs.svg">  </a></code>
-  <code><a href="https://gitee.com/geekswg" title="Geekswg's Gitee"><img height="24" src="images/gitee2.png">  </a></code>
-  <code><a href="https://github.com/geekswg" title="Geekswg's GitHhub"><img height="24" src="images/github.svg">  </a></code>
-</h5>
+<div align="center">
+    <a href="https://h-haonan.github.io/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <!-- visitor statistics logo 访客数统计徽标 -->
+    <img src="https://komarev.com/ghpvc/?username=H-haonan&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  </div>
 <br>
 <p align="center">
   Hi, I'm H-haonan
