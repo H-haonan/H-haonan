@@ -1,32 +1,24 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;Welcome+Here,+My+Buddy....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=用心甘情愿的态度!+👋;过随遇而安的生活!&center=true&size=30">
   </a>
 </h1>
 <h5 align="center">
-  <code><a href="http://wpa.qq.com/msgrd?v=3&uin=1101303970&site=qq&menu=yes" title="QQ Profile"><img height="24" src="images/QQ.svg">  </a></code>
-  <code><a href="mailto: geekswg@qq.com" title="点击给我发邮件"><img height="24" src="images/mail.svg">  </a></code>
+  <code><a href="http://wpa.qq.com/msgrd?v=3&uin=937605022&site=qq&menu=yes" title="QQ Profile"><img height="24" src="images/QQ.svg">  </a></code>
+  <code><a href="mailto: 937605022@qq.com" title="点击给我发邮件"><img height="24" src="images/mail.svg">  </a></code>
   <code><a href="http://geekswg.cnblogs.com/" title="Geekswg's Cnblogs"><img height="24" src="images/cnblogs.svg">  </a></code>
   <code><a href="https://gitee.com/geekswg" title="Geekswg's Gitee"><img height="24" src="images/gitee2.png">  </a></code>
   <code><a href="https://github.com/geekswg" title="Geekswg's GitHhub"><img height="24" src="images/github.svg">  </a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Geekswg
+  Hi, I'm H-haonan
   <br>
-  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
+  🔬 后端网络工程师，运维工程师
   <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
+  💬 询问问题 <a href="https://github.com/H-haonan/H-haonan/issues" title="Issues">Here</a>
   <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/H-haonan/H-haonan/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: 937605022@qq.com">H-haonan@qq.com</a>
+  📫 联系我: <a href="mailto: 937605022@qq.com">H-haonan@qq.com</a>
 </p>
  
 <hr>
@@ -113,7 +105,7 @@
 <br><br><br><br><br><br>
 -->
 <h4 align="center">
-  <a href="https://github.com/geekswg?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/H-haonan?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
 
