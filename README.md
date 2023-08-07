@@ -70,7 +70,8 @@
 <hr>
  
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-
+<!-- GitHub 奖杯🏆 -->
+<img  src="https://github-profile-trophy.vercel.app/?username=H-haonan&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 <h4 align="center">
   <a href="https://github.com/H-haonan?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
