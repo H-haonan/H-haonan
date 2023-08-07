@@ -21,70 +21,7 @@
   <br>
   📫 联系我: <a href="mailto: 937605022@qq.com">H-haonan@qq.com</a>
 </p>
- <!-- wakatime 统计 -->
-### 📊 WakaTime
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=H-haonan&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=H-haonan&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=H-haonan&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-
-</td></tr>
-
-<tr><td>
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                464 commits         ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-🌆 Daytime                616 commits         ████████░░░░░░░░░░░░░░░░░   31.51 % 
-🌃 Evening                601 commits         ████████░░░░░░░░░░░░░░░░░   30.74 % 
-🌙 Night                  274 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   245 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Tuesday                  190 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Wednesday                274 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Thursday                 226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Friday                   566 commits         ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-Saturday                 175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-Sunday                   279 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Vue.js                   8 hrs 55 mins       ████████████░░░░░░░░░░░░░   46.40 % 
-Markdown                 6 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   34.05 % 
-TypeScript               1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-JSON                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-JavaScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-
-🔥 Editors: 
-VS Code                  19 hrs 13 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  17 hrs 47 mins      ███████████████████████░░   92.50 % 
-Mac                      1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-```
-
-
- Last Updated on 07/08/2023 01:22:39 UTC
-<!--END_SECTION:waka-->
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
