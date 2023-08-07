@@ -70,6 +70,7 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 
 <h4 align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=H-haonan)](https://github.com/ryo-ma/github-profile-trophy)
   <a href="https://github.com/H-haonan?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
