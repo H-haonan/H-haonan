@@ -8,8 +8,6 @@
     <!-- visitor statistics logo 访客数统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=H-haonan&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-![](https://raw.githubusercontent.com/H-haonan/H-haonan/main/assets/github-contribution-grid-snake.svg)
 
   
 <br>
@@ -72,7 +70,6 @@
 <hr>
  
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-[![trophy](https://github-profile-trophy.vercel.app/?username=H-haonan)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h4 align="center">
   <a href="https://github.com/H-haonan?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
